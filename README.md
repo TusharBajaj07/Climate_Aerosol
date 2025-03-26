@@ -9,7 +9,7 @@ This repository analyzes the relationship between aerosol optical depth (AOD) an
 - Northern regions show moderate negative relationships
 - Western coastal areas exhibit mixed patterns
 
-![North America Heat Map: SSRD vs. AOD Sensitivity](path/to/heatmap.jpg)
+![North America Heat Map: SSRD vs. AOD Sensitivity](/heatmap.jpg)
 
 ## Data Sources
 - **ERA5 Reanalysis**: Hourly data (t2m, tp, ssrd)
